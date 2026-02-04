@@ -648,8 +648,4 @@ Based on the analysis:
 2. Tree-based models generally outperform linear models for EEG data
 3. Deep Learning (Neural Network) shows competitive performance
 4. The best model achieves ~85% accuracy in stress detection
-
-This demonstrates the effectiveness of machine learning for EEG-based
-stress classification, with ensemble methods being particularly suitable
-for this type of physiological signal analysis.
 """)
